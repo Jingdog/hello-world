@@ -1,2 +1,5 @@
 # hello-world
-My first Github repository
+
+Hi guys,
+I'm Jing
+This is my first test in Githud.
